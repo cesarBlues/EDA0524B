@@ -3,7 +3,7 @@
 //j38
 #include <iostream>
 
-#define TAMANIO_ARREGLO 5
+#define TAMANIO_ARREGLO 7
 #define C_0 0
 #define C_1 1
 
